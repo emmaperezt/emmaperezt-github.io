@@ -1,0 +1,57 @@
+body{
+    background-color: #ffc93f ;
+    color: #212121;
+    text-align: center;
+}
+
+.foto {
+    width: 55%;
+    margin-top: 5vh;
+    
+}
+
+nav p{
+    margin: 0 12vw;
+}
+
+ul {
+
+    margin: 3vh 3vw;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    width: 20%;
+    padding: 2px;
+}
+
+ul {
+    padding: 0%;
+}
+
+.ico {
+    width: 66%;
+    display: inline-block;
+    ;
+}
+
+section p {
+    margin: 0 12vw 3vh 12vw;
+
+}
+
+div{
+    padding: 7px;
+    margin-top: 7px;
+}
+
+.btn {
+    background-color: #f8f8f7;
+    color: black;
+    padding: 6px 5px;
+    margin: 9px;
+    box-shadow: -2px 3px 1px black;
+    text-decoration: none;
+    border: 1px black solid;
+}
